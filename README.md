@@ -27,9 +27,8 @@ I am an individual with a keen eye for details, seeking to advance my growing te
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" height="60"/>
 </p>
 
 ---
