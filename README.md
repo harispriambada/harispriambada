@@ -14,13 +14,13 @@ I am an individual with a keen eye for details, seeking to advance my growing te
 
 ### 🛠️ My Skills
 
-#### 🚀 Competitive Coding
+#### 🚀 Programming Languages
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" height="60"/>
 </p>
 
 #### 🌐 Web Development
@@ -36,7 +36,7 @@ I am an individual with a keen eye for details, seeking to advance my growing te
 ### 📖 Currently Learning
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" height="60"/>
 </p>
 
 ---
